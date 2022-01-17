@@ -1,5 +1,5 @@
 # cpnt201-a2
-Assignment 2: Collaboration and merge conflicts
+Assignment 2: Collaboration and merge conflicts.
 # Google searched: "free static website template"
  Best search results to create a conflict:
   - Designmodo (https://designmodo.com/website-templates/)
